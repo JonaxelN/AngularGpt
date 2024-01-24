@@ -10,4 +10,4 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
   templateUrl: './ortographyPage.component.html',
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class OrtographyPageComponent { }
+export default class OrtographyPageComponent { }
